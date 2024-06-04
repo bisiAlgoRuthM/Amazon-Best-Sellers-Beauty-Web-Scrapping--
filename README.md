@@ -1,2 +1,1 @@
-# Fashion Designer Bags Retail Web Scrapping (Farfetch)
- Scrapping a fashion ecommerce website
+# Web Scrapper Using Beautiful Soup to get Amazon's most popular products based on sales, updated freuently from their website
